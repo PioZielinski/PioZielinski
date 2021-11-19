@@ -6,8 +6,8 @@ during their production. Work involving testing and checking
 requirements is something that I would like to do in the future.
 
 # Tools
-*Programing languages:Python
-*Databases: MS SQL
+* Programing languages:Python
+* Databases: MS SQL
 *Operation Systems: Windows, Linux
 *Version control system: GitHub
 *Framework that helps teams work together: SCRUM
