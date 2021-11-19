@@ -1,4 +1,4 @@
-##Summary 
+# Summary 
 👋 Hi, I’m Piotr Zieliński. 
 I am an engineer with experience in Quality Assurance for the 
 industrial sector. I have more than 10 years expierence in industry. I was responsible for the quality of the products 
