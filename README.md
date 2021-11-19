@@ -8,30 +8,30 @@ requirements is something that I would like to do in the future.
 # Tools
 * Programing languages:Python
 * Databases: MS SQL
-*Operation Systems: Windows, Linux
-*Version control system: GitHub
-*Framework that helps teams work together: SCRUM
-*Tools to manage testing: Jira, Testlink
+* Operation Systems: Windows, Linux
+* Version control system: GitHub
+* Framework that helps teams work together: SCRUM
+* Tools to manage testing: Jira, Testlink
 
 # Courses
-*Basic Manual testing - Udemy
-*Selenium Python from beginning - Udemy
+* Basic Manual testing - Udemy
+* Selenium Python from beginning - Udemy
 
 # Books
-*Zawód tester - Michal Putowski
+* Zawód tester - Michal Putowski
 
 # Testing group
 https://www.facebook.com/groups/TestowanieOprogramowania
 https://www.facebook.com/groups/246926649684135
 
 # Blogs
-*https://jakzostactesterem.pl/
-*https://testerzy.pl/baza-wiedzy/tester-oprogramowania-definicja
+* https://jakzostactesterem.pl/
+* https://testerzy.pl/baza-wiedzy/tester-oprogramowania-definicja
 
 # My test documentation
-*Test cases
-*Test scenario
-*Bug report
+* Test cases
+* Test scenario
+* Bug report
 
 <!---
 PioZielinski/PioZielinski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
