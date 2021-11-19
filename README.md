@@ -21,8 +21,8 @@ requirements is something that I would like to do in the future.
 * Zawód tester - Michal Putowski
 
 # Testing group
-https://www.facebook.com/groups/TestowanieOprogramowania
-https://www.facebook.com/groups/246926649684135
+* https://www.facebook.com/groups/TestowanieOprogramowania
+* https://www.facebook.com/groups/246926649684135
 
 # Blogs
 * https://jakzostactesterem.pl/
