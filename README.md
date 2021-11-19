@@ -5,7 +5,7 @@ industrial sector. I have more than 10 years expierence in industry. I was respo
 during their production. Work involving testing and checking 
 requirements is something that I would like to do in the future.
 
-##Tools
+# Tools
 *Programing languages:Python
 *Databases: MS SQL
 *Operation Systems: Windows, Linux
@@ -13,22 +13,22 @@ requirements is something that I would like to do in the future.
 *Framework that helps teams work together: SCRUM
 *Tools to manage testing: Jira, Testlink
 
-##Courses
+# Courses
 *Basic Manual testing - Udemy
 *Selenium Python from beginning - Udemy
 
-##Books
+# Books
 *Zawód tester - Michal Putowski
 
-##Testing group
+# Testing group
 https://www.facebook.com/groups/TestowanieOprogramowania
 https://www.facebook.com/groups/246926649684135
 
-##Blogs
+# Blogs
 *https://jakzostactesterem.pl/
 *https://testerzy.pl/baza-wiedzy/tester-oprogramowania-definicja
 
-##My test documentation
+# My test documentation
 *Test cases
 *Test scenario
 *Bug report
